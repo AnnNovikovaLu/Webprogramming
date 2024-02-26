@@ -37,7 +37,30 @@ _IT specialist_
 English B1
 
 ## My portfolio
-
+`Пример кода`
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+   </div>
+        <nav>
+          <ul>
+            <li><a href="#Interests">Interests</a></li>
+            <li><a href="#Skills">Skills</a></li>
+            <li><a href="#Education">Education</a></li>
+            <li><a href="#Language">Language</a></li>
+            <li><a href="#Myportfolio">My portfolio</a></li>
+            <li><a href="#Contactinformation">Contact information</a></li>
+          </ul>
+        </nav>
+</body>
+</html>
+```
 
 
 ### Contact information
