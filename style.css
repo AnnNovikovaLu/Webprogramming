@@ -239,3 +239,139 @@ letter-spacing: 0.252px;
 width: 179px;
 
 }
+.tips{
+  background: #F4EFE9;
+  display: flex;
+  flex-direction: column;
+
+}
+.tips span{
+  color: #1E1928;
+
+font-family: Roboto;
+font-size: 32px;
+font-style: normal;
+font-weight: 700;
+line-height: 42px; /* 131.25% */
+width: 349px;
+}
+.tips p{
+  color: rgba(30, 25, 40, 0.80);
+
+font-family: Inter;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px; /* 187.5% */
+letter-spacing: 0.252px;
+width: 599px;
+}
+.extra_information{
+  display: flex;
+  justify-content: center;
+  align-items:center;
+  background: #F4EFE9;
+
+}
+.extra_information_column{
+  display: flex;
+  flex-direction: column;
+
+}
+.extra_information_text{
+  color: #1E1928;
+
+text-align: center;
+font-family: Inter;
+font-size: 17px;
+font-style: normal;
+font-weight: 700;
+line-height: 26px; /* 152.941% */
+letter-spacing: 0.252px;
+width: 535px;
+}
+.extra_round_container{
+  width: 168px;
+height: 40px;
+flex-shrink: 0;
+border-radius: 9999px;
+border: 1px solid #1E1928;
+}
+.extra_information_text{
+  color: #1E1928;
+
+text-align: center;
+font-family: Inter;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 20px; /* 142.857% */
+}
+.nine_rectangle{
+flex-direction: row;
+  row-gap: 8px;
+  width: 144px;
+height: 160px;
+flex-shrink: 0;
+border-radius: 8px;
+background: #FFF;
+}
+.nine_rectangle span{
+  width: 37px;
+  color: #1E1928;
+
+text-align: center;
+font-family: Inter;
+font-size: 12px;
+font-style: normal;
+font-weight: 700;
+line-height: 16px; /* 133.333% */
+}
+.purple_rectangle{
+  display:flex;
+  justify-content: center;
+  align-items:center;
+  width: 1440px;
+height: 694px;
+flex-shrink: 0;
+background: #592141;
+
+}
+.purple_rectangle_column{
+  display: flex;
+  flex-direction: column;
+
+}
+.purple_rectangle p{
+  color: #F4EFE9;
+
+text-align: center;
+font-family: Roboto;
+font-size: 30px;
+font-style: normal;
+font-weight: 400;
+line-height: 36px; /* 120% */
+width: 828px;
+}
+.mark{
+  color: #F4EFE9;
+
+text-align: center;
+font-family: Roboto;
+font-size: 96px;
+font-style: normal;
+font-weight: 400;
+line-height: 96px; /* 100% */
+width: 41px;
+}
+.purple_rectangle span{
+  color: #F4EFE9;
+
+text-align: center;
+font-family: Inter;
+font-size: 15px;
+font-style: normal;
+font-weight: 400;
+line-height: 24px; /* 160% */
+width: 124px;
+}
